@@ -29,6 +29,7 @@
 		"soupselect": "^0.2.0"
 	},
 	"devDependencies": {
+		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@sveltejs/package": "next",
 		"@typescript-eslint/eslint-plugin": "^5.27.0",
